@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 💻 Languages and Tools 💻
+
+[![Spring](https://img.shields.io/badge/-Spring-g?style=flat&logo=spring&logoColor=white&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+[![Spring Microservices](https://img.shields.io/badge/-Spring_Microservices-g?style=flat&logo=spring&logoColor=white&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+
