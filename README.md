@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 -->
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/codeGirl.gif?raw=true" width="500" height="320" />
+
+
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 [![Spring Microservices](https://img.shields.io/badge/-Spring_Microservices-g?style=flat&logo=spring&logoColor=white&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
