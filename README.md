@@ -33,4 +33,13 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=flat&logo=mongodb&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
 [![Oracle](https://img.shields.io/badge/-OracleDB-red?style=flat&logo=oracle&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=kubenetes&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
+[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&link=https://github.com/idamsufiana)](https://gitlab.com/idamsufiana) 
+
 
