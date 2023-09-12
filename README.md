@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 [![Spring Microservices](https://img.shields.io/badge/-Spring_Microservices-g?style=flat&logo=spring&logoColor=white&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 
+
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
+[![Postgresql](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=flat&logo=mongodb&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
+[![Oracle](https://img.shields.io/badge/-OracleDB-red?style=flat&logo=oracle&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
+
+
