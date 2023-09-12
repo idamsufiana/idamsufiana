@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/codeGirl.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/coderGirl.gif?raw=true" width="500" height="320" />
 
 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
