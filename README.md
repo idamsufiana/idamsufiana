@@ -1,8 +1,8 @@
 ### Hi there 👋
 #
-I'm a backend Engineer
-I actively build backend services
-Lets Leetcode and Share knowledge
+- I'm a backend Engineer
+- I actively build backend services
+- Lets Leetcode and Share knowledge
 
 <!--
 **idamsufiana/idamsufiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
