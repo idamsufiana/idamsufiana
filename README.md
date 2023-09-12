@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 [![Spring Microservices](https://img.shields.io/badge/-Spring_Microservices-g?style=flat&logo=spring&logoColor=white&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
+[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&link=https://github.com/idamsufiana)](https://gitlab.com/idamsufiana) 
+
 
 
