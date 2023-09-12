@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&link=https://github.com/idamsufiana)](https://gitlab.com/idamsufiana) 
+
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=kubenetes&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
+
  
 
 
