@@ -1,7 +1,7 @@
 ### Hi there 👋
 #
 🔭 I'm a backend Engineer,  
-🌱 I actively build backend services,    
+👯 I’m looking to collaborate on making stuff
 
 
 Do it now, or regret later 🚴‍♂️  
