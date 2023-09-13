@@ -2,6 +2,8 @@
 #
 🔭 I'm a backend Engineer,  
 🌱 I actively build backend services,    
+
+
 ⚡ Go After your Dream 🚴‍♂️  
 
 <img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/coderGirl.gif?raw=true" width="250" height="160" />
