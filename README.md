@@ -2,7 +2,7 @@
 #
 🔭 I'm a backend Engineer,  
 🌱 I actively build backend services,    
-⚡ Lets Leetcode and Share knowledge
+📫 reach me on [📸: Instagram](https://instagram.com/idamsufiana)  
 
 <img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/coderGirl.gif?raw=true" width="250" height="160" />
 
