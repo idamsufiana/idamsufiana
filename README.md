@@ -4,7 +4,7 @@
 🌱 I actively build backend services,    
 
 
-Everything has a deadline, just do it now 🚴‍♂️  
+Everything has a deadline, just do it 🚴‍♂️  
 
 <img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/coderGirl.gif?raw=true" width="250" height="160" />
 
