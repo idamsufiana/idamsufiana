@@ -1,6 +1,6 @@
 ### Hi there 👋
 #
-🔭 Daily Coding,  
+🔭 See my projects
 👯 I’m looking to collaborate on making stuff
 
 
