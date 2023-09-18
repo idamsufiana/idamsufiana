@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on making stuff
 
 
-Stay update latest tech and enthusiast them 🚴‍♂️  
+Stay update latest tech, stay enthusiasm 🚴‍♂️  
 
 <img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/coderGirl.gif?raw=true" width="250" height="160" />
 
