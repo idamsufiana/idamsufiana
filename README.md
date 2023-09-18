@@ -1,6 +1,6 @@
 ### Hi there 👋
 #
-🔭 I'm a backend Engineer,  
+🔭 Daily Coding,  
 👯 I’m looking to collaborate on making stuff
 
 
