@@ -1,7 +1,7 @@
 ### Hi there 👋
 #
 - 🔭 See my projects    
-- 🌱 I’m currently learning several backend framework  
+- 🌱 I’m currently learning several backend framework and leetcoding 
 - 👯 I’m looking to collaborate on making stuff
 
 
