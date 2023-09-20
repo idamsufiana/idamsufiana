@@ -1,7 +1,8 @@
 ### Hi there 👋
 #
-🔭 See my projects    
-👯 I’m looking to collaborate on making stuff
+- 🔭 See my projects    
+- 🌱 I’m currently learning several backend framework  
+- 👯 I’m looking to collaborate on making stuff
 
 
 Stay update latest tech, stay enthusiasm 🚴‍♂️  
