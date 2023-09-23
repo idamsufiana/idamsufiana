@@ -7,7 +7,7 @@
 
 Stay update latest tech, stay enthusiasm 🚴‍♂️  
 
-<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/rrr.gif?raw=true" width="250" height="160" />
+<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/girl.gif?raw=true" width="250" height="160" />
 
 <!--
 **idamsufiana/idamsufiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
