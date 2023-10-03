@@ -2,7 +2,7 @@
 #
 - 🌱 I’m currently learning several backend frameworks
 - 👯 I’m looking to collaborate on making stuff
-- 📫 Find  me in https://gitlab.com/idams
+- 📫 visit anytime https://gitlab.com/idams
 
 
 Stay update latest tech, stay enthusiasm 🚴‍♂️  
