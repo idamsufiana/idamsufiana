@@ -10,7 +10,7 @@ Stay update latest tech, stay enthusiasm 🚴‍♂️
 <!--<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/laptop.gif?raw=true" width="180" height="200" />
 <img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/keyboard.jpg?raw=true" width="150" height="200" />
 -->
-<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/tea.gif?raw=true" width="350" height="250" />
+<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/github.gif?raw=true" width="260" height="260" />
 
 <!--
 **idamsufiana/idamsufiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
