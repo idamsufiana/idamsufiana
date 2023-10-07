@@ -10,7 +10,6 @@ Stay update latest tech, stay enthusiasm 🚴‍♂️
 <!--<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/laptop.gif?raw=true" width="180" height="200" />
 <img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/keyboard.jpg?raw=true" width="150" height="200" />
 -->
-<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/github.gif?raw=true" width="260" height="260" />
 
 <!--
 **idamsufiana/idamsufiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +31,9 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/idamsufiana)](https://github.com/idamsufiana) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&link=https://github.com/idamsufiana)](https://gitlab.com/idamsufiana)
+
+<img align="right" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/muph.gif?raw=true" width="2000" height="160" />
+
 
  
 
