@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/idamsufiana)](https://github.com/idamsufiana)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&link=https://github.com/idamsufiana)](https://gitlab.com/idamsufiana)
 
-<img align="center" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/tomcat.gif?raw=true" width="500" height="200" />
+<img align="center" alt="GIF" src="https://github.com/idamsufiana/idamsufiana/blob/main/tomcat.gif?raw=true" width="500" height="230" />
 
 
  
