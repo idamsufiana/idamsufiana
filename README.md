@@ -1,6 +1,6 @@
 ### Hi there 👋
 #
-- 🔭 I’m currently focusing on Spring Microservices
+- 🔭 I’m focusing on Spring Microservices
 - 🌱 I'm also learning other backend frameworks 
 - 👯 I’m looking to collaborate on making stuff
 - 📫 https://gitlab.com/idams You can visit anytime 
