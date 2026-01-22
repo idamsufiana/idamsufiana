@@ -1,5 +1,6 @@
 ### Hi there 👋
 #
+- 🏥 I'm a Healthcare Backend Developer
 - 🔭 I’m focused on Spring Microservices projects
 - 🌱 I'm also learning other backend frameworks 
 - 👯 I’m looking to collaborate on making stuff
