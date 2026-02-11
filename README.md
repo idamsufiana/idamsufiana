@@ -4,7 +4,7 @@
 - 🔭 I’m focused on Spring Microservices projects
 - 🌱 I'm also learning other backend frameworks 
 - 👯 I’m looking to collaborate on making stuff
-- 📫 https://gitlab.com/idams You can visit anytime 
+- 📫 https://medium.com/@ida.msufiana You can visit anytime 
 
 
 Stay update latest tech, stay enthusiasm 🚴‍♂️  
