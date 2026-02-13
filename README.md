@@ -1,11 +1,11 @@
 ### Hi there 👋
 #
-- 🏥 I'm a Healthcare Backend Developer
-- 🔭 I’m focused on Spring Microservices projects
-- 🌱 I'm also learning other backend frameworks 
-- 👯 I’m looking to collaborate on making stuff
-- 📫 https://medium.com/@ida.msufiana You can visit anytime 
 
+🏥 Backend Engineer specializing in Spring Boot Microservices
+🔭 Designing scalable, secure, and production-ready backend systems
+🌱 Continuously learning new backend technologies & system design patterns
+👯 Open for collaboration on meaningful and innovative projects
+📫 Let’s connect & read my articles: https://medium.com/@ida.msufiana 
 
 Stay update latest tech, stay enthusiasm 🚴‍♂️  
 
