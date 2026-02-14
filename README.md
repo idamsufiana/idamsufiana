@@ -1,10 +1,10 @@
 ### Hi there 👋
 #
-🏥 Backend Developer at OLX
-🔭 Focused on Spring Boot & Microservices Architecture
-🌱 Currently exploring other backend frameworks & system design
-👯 Open to collaborating on impactful backend projects
-📫 Medium: https://medium.com/@ida.msufiana
+🏥 Backend Developer at OLX  
+🔭 Focused on Spring Boot & Microservices Architecture  
+🌱 Currently exploring other backend frameworks & system design  
+👯 Open to collaborating on impactful backend projects  
+📫 Medium: https://medium.com/@ida.msufiana  
 
 Stay update latest tech, stay enthusiasm 🚴‍♂️  
 
