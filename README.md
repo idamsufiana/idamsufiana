@@ -1,10 +1,10 @@
 ### Hi there 👋
 #
-- 🏥 I'm a Backend Developer 
-- 🔭 I’m focused on Spring Microservices projects 
-- 🌱 I'm also learning other backend frameworks
-- 👯 I’m looking to collaborate on making stuff
-- 📫 https://medium.com/@ida.msufiana You can visit anytime
+🏥 Backend Developer at OLX
+🔭 Focused on Spring Boot & Microservices Architecture
+🌱 Currently exploring other backend frameworks & system design
+👯 Open to collaborating on impactful backend projects
+📫 Medium: https://medium.com/@ida.msufiana
 
 Stay update latest tech, stay enthusiasm 🚴‍♂️  
 
